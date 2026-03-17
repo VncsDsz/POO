@@ -1,5 +1,5 @@
 public class TestaCarro {
-    public static void main(String args[]){
+    public static void main(String[] args){
         // cria um objeto (instância da classe Carro)
         Carro obj1 = new Carro();
         obj1.marca = "Fiat";

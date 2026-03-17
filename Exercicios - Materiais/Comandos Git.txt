@@ -1,0 +1,7 @@
+Comandos Git
+
+git config --global user.email "[email]"  - define o e-mail que você deseja associar às suas transações de commit
+git add .  - selecionar todos os arquivos alterados
+git commit -m "" - nomear as atualizações que serão mandadas 
+git status  - checar se o status dos comandos foram válidos
+git push [link repositório] main - commitar as atualizações
